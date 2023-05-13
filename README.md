@@ -1,2 +1,2 @@
-# query-ciosmos
+# query-cosmos
 client to query cosmosdb
